@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Assignment Planner\obj\Debug\net8.0\Assignment Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Assignment Planner\obj\Debug\net8.0\Assignment Planner.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignment Planner\obj\Debug\net8.0\Assignment Planner.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assignment Planner\obj\Debug\net8.0\Assignment Planner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignment Planner\bin\Debug\net8.0\Assignment Planner.exe
+C:\Users\Admin\Desktop\Assignment Planner\bin\Debug\net8.0\Assignment Planner.deps.json
+C:\Users\Admin\Desktop\Assignment Planner\bin\Debug\net8.0\Assignment Planner.runtimeconfig.json
+C:\Users\Admin\Desktop\Assignment Planner\bin\Debug\net8.0\Assignment Planner.dll
+C:\Users\Admin\Desktop\Assignment Planner\bin\Debug\net8.0\Assignment Planner.pdb
+C:\Users\Admin\Desktop\Assignment Planner\obj\Debug\net8.0\Assignment Planner.dll
+C:\Users\Admin\Desktop\Assignment Planner\obj\Debug\net8.0\refint\Assignment Planner.dll
+C:\Users\Admin\Desktop\Assignment Planner\obj\Debug\net8.0\Assignment Planner.pdb
+C:\Users\Admin\Desktop\Assignment Planner\obj\Debug\net8.0\Assignment Planner.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Assignment Planner\obj\Debug\net8.0\ref\Assignment Planner.dll
